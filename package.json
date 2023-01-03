@@ -9,15 +9,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/fjogeleit/http-request-action.git"
+    "url": "git+https://github.com/ArthurYdalgo/http-request-action.git"
   },
   "keywords": [],
   "author": "",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/fjogeleit/http-request-action/issues"
+    "url": "https://github.com/ArthurYdalgo/http-request-action/issues"
   },
-  "homepage": "https://github.com/fjogeleit/http-request-action#readme",
+  "homepage": "https://github.com/ArthurYdalgo/http-request-action#readme",
   "devDependencies": {
     "@vercel/ncc": "^0.36.0",
     "axios": "^1.2.2",
