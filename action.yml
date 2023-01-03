@@ -1,4 +1,4 @@
-name: 'HTTP Request Action ✉️'
+name: 'GitHub Action for HTTP Requests'
 description: 'Create any HTTP Request'
 inputs:
     url:
