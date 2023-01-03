@@ -2,6 +2,8 @@
 
 **Create HTTP Requests from GitHub Actions.** This action allows GitHub events to engage with tools like Ansible AWX that use HTTP APIs.
 
+<b>⚠️Disclaimer: this action is a fork on a [similar action](https://github.com/fjogeleit/http-request-action) from [fjogeleit](https://github.com/fjogeleit)⚠️<b>
+
 ### Example
 ```yaml
 jobs:
